@@ -1,5 +1,5 @@
 # cash-manager
-Cash Register is a web based app that takes a bill and cash given, then gives the output as number of notes in different denomination that has to be returned to customer.
+Cash Manager is a web based app that takes a bill and cash given, then gives the output as number of notes in different denomination that has to be returned to customer.
 
 Recreated Cash Mnager as a submission to neogcamp's levelzero Mark 10 assignment.
 
